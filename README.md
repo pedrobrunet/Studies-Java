@@ -19,7 +19,8 @@ Este repositório serve como:
 
 As principais fontes que venho acompanhando são:
 
-- [Fernanda Kipper](https://www.youtube.com/c/FernandaKipper) 
-- [DevDojo]([https://www.youtube.com/c/marciosouza](https://www.youtube.com/@DevDojoBrasil)) 
+- [Fernanda Kipper](https://www.youtube.com/@kipperdev)
+- [DevDojo](https://www.youtube.com/@DevDojoBrasil)
+
 
 ---
