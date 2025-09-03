@@ -24,6 +24,19 @@ public class Calculadora {
     }
 
     public double divideDoisNumeros(double num1, double num2) {
-        return num1 / num2;
+        if (num2 == 0) {
+            System.out.println("Divisão por zero não é permitida.");
+            return 0;
+        } else { // O 'else' garante que a divisão só ocorrerá se não houver erro
+            return num1 / num2;
+        }
+    }
+
+    public void alteraDoisNumeros(int num1, int num2){
+        num1 = 99;
+        num2 = 33;
+        System.out.println("Dentro do alteraDoisNumeros");
+        System.out.println("Num1: " + num1);
+        System.out.println("Num2: " + num2);
     }
 }
