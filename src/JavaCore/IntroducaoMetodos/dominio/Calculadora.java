@@ -18,4 +18,12 @@ public class Calculadora {
     public void subtraiDoisNumeros() {
         System.out.println("A subtração dos dois números é: " + (10 - 5));
     }
+    // Parametros são variáveis que você pode passar para um método.
+    public void multiplicaDoisNumeros(int num1, int num2) {
+        System.out.println("A multiplicação dos dois números é: " + (num1 * num2));
+    }
+
+    public double divideDoisNumeros(double num1, double num2) {
+        return num1 / num2;
+    }
 }
