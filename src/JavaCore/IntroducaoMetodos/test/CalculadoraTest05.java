@@ -11,5 +11,6 @@ public class CalculadoraTest05 {
         calculadora.somaArray(numeros);
         // Varargs
         calculadora.somaVarArgs(1,4,5,7);
+
     }
 }
