@@ -9,6 +9,7 @@ public class Operadores {
         int numero2 = 20;
         System.out.println(numero2 + numero);
 // Introducao.Operadores Aritméticos
+// + - * / %
         boolean is5maiorQue10 = 5 > 10;
         System.out.println(is5maiorQue10);
         boolean is5menorQue10 = 5 < 10;
@@ -32,6 +33,14 @@ public class Operadores {
         contador += 1; // contador = contador + 1
         contador++;    // contador = contador + 1
         System.out.println(contador);
+
+        // operadores relacionais
+        // == != > < >= <=
+        int izaIdade = 1;
+        boolean maiorDeIdade = izaIdade >= 18;
+        System.out.println("iza é maior de idade? " + maiorDeIdade);
+
+
         }
 
     }
