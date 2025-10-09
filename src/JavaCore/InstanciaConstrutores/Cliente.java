@@ -1,5 +1,3 @@
-package JavaCore.InstanciaConstrutores;
-
 public class Cliente {
     Double limiteCredito = 10.0;
     String nome;
