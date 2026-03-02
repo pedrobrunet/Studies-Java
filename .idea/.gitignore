@@ -1,12 +1,4 @@
-# IDEs (IntelliJ / PyCharm)
 .idea/
 *.iml
 out/
-gen/
-
-# Compilados do Java
 *.class
-
-# Sistema e Temporários
-.DS_Store
-Thumbs.db
