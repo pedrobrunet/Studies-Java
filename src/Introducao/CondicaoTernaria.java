@@ -15,6 +15,7 @@ public class CondicaoTernaria {
         System.out.println(resultado);
 
         // Condição ternária
+        // tipo x = (condição) ? se sim : se não
         String resultado2 = (idade >= 18) ? "Maior de idade" : "Menor de idade";
         System.out.println(resultado2);
     }
